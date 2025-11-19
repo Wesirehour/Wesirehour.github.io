@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [School of WHU](https://whu.edu.cn/). 
+I'm a fourth year undergraduate student from [School of WHU](https://whu.edu.cn/). 
